@@ -12,5 +12,6 @@ package.instdat.filemaps.less = "/bin/less"
 package.instdat.filemaps.glpp = "/bin/glpp"
 package.instdat.filemaps.cat = "/bin/cat"
 package.pkgType = "com.github"
+package.unicornSpec = "v1.0.0"
 
 return package
